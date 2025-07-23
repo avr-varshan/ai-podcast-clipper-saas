@@ -14,9 +14,9 @@ Experience the AI Podcast Clipper SaaS live!
 
 👉 **https://ai-podcast-clipper-frontend-khaki.vercel.app/signup**
 
-See a sample generated clip:
+Click the image below to watch a demo of the AI Podcast Clipper.
 
-[![Sample Clip Thumbnail]((https://raw.githubusercontent.com/avr-varshan/ai-podcast-clipper-saas/main/resources/sample/thumbnail.jpg)](https://github.com/avr-varshan/ai-podcast-clipper-saas/blob/main/resources/sample/sample_clip.mp4))
+[![Demo](https://raw.githubusercontent.com/avr-varshan/ai-podcast-clipper-saas/main/resources/sample/thumbnail.jpg)](https://github.com/avr-varshan/ai-podcast-clipper-saas/blob/main/resources/sample/sample_clip.mp4)
 
 ---
 
