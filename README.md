@@ -14,7 +14,7 @@ Experience the AI Podcast Clipper SaaS live!
 
 👉 **https://ai-podcast-clipper-frontend-khaki.vercel.app/signup**
 
-[![Watch the demo](resources/thumbnail.png)](resources/sample_clip.mp4)
+[![Watch the demo](resources/thumbnail.png)]([https://www.youtube.com/watch?v=your_video_id](https://youtu.be/y0NS3Ic-mxA?si=EyfK10fpwoMue5nM))
 
 ---
 
