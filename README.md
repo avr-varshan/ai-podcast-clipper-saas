@@ -159,23 +159,6 @@ MODAL_TOKEN_SECRET=
 
 -----
 
-### 🧪 Testing Videos
-
-  * MI6: World's Darkest Secrets
-  * Janney Sanchez Podcast Clip
-
------
-
-### 📌 Recap
-
-  * 🔁 Fully automated podcast clip generation
-  * ⚡ Cloud-native architecture (Vercel + Modal + Inngest)
-  * 🎥 AI-based transcription, clip selection & rendering
-  * 💼 SaaS-ready with user auth and background job handling
-
-Built with cutting-edge AI and production-ready architecture. Ideal for creators, agencies, and platforms looking to streamline short-form content creation.
-
------
 
 ### 🧑‍💻 Author
 
