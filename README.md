@@ -16,7 +16,7 @@ Experience the AI Podcast Clipper SaaS live!
 
 Click the image below to watch a demo of the AI Podcast Clipper.
 
-[![Demo](https://raw.githubusercontent.com/avr-varshan/ai-podcast-clipper-saas/main/resources/sample/thumbnail.jpg)](https://github.com/avr-varshan/ai-podcast-clipper-saas/blob/main/resources/sample/sample_clip.mp4)
+![Demo](resources/sample_clip.mp4)
 
 ---
 
