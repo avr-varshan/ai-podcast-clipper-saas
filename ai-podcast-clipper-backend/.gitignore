@@ -1,0 +1,24 @@
+# Python cache and venv
+__pycache__/
+.venv/
+.env
+*.pyc
+.DS_Store
+
+# Model weights
+weight/
+*.model
+*.pt
+*.pth
+*.h5
+*.ckpt
+
+# Videos or media
+*.mp4
+*.avi
+*.mkv
+*.wav
+
+# Jupyter and temporary
+*.ipynb_checkpoints
+*.log
