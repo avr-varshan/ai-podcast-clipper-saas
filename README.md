@@ -16,7 +16,7 @@ Experience the AI Podcast Clipper SaaS live!
 
 See a sample generated clip:
 
-[![Sample Clip Thumbnail](https://raw.githubusercontent.com/avr-varshan/ai-podcast-clipper-saas/main/resources/sample/thumbnail.png)](https://github.com/avr-varshan/ai-podcast-clipper-saas/blob/main/resources/sample/sample_clip.mp4)
+[![Sample Clip Thumbnail]((https://raw.githubusercontent.com/avr-varshan/ai-podcast-clipper-saas/main/resources/sample/thumbnail.jpg)](https://github.com/avr-varshan/ai-podcast-clipper-saas/blob/main/resources/sample/sample_clip.mp4))
 
 ---
 
